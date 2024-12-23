@@ -9,7 +9,7 @@
     "commit": "cz"
   },
   "dependencies": {
-    "@mdi/js": "^5.7.55",
+    "@mdi/js": "^7.4.47",
     "codemirror": "^5.62.2",
     "file-saver": "2.0.5",
     "highlight.js": "11.2.0",
